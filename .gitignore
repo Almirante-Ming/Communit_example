@@ -4,3 +4,5 @@ __pycache__
 .venv
 flowers-dataset
 flowers_recog
+*.pyc
+.vscode
